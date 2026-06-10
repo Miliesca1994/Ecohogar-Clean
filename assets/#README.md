@@ -1,0 +1,1 @@
+# Este proyecto contiene todo lo aprendido en el modulo de flex, grid y animaciones en css avanzado. Se creo una pagina con productos de limpieza con efectos. 
